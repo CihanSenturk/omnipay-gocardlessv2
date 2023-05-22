@@ -1,5 +1,5 @@
 {
-  "name": "CihanSenturk/omnipay-gocardlessv2",
+  "name": "cihansenturk/omnipay-gocardlessv2",
   "type": "library",
   "description": "GoCardless gateway for Omnipay payment processing library, using the v2 GoCardless API",
   "keywords": [
