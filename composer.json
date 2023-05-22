@@ -1,5 +1,5 @@
 {
-  "name": "digitickets/omnipay-gocardlessv2",
+  "name": "CihanSenturk/omnipay-gocardlessv2",
   "type": "library",
   "description": "GoCardless gateway for Omnipay payment processing library, using the v2 GoCardless API",
   "keywords": [
@@ -11,9 +11,13 @@
     "gocardless",
     "purchase"
   ],
-  "homepage": "https://github.com/digitickets/omnipay-gocardlessv2",
+  "homepage": "https://github.com/CihanSenturk/omnipay-gocardlessv2",
   "license": "MIT",
   "authors": [
+    {
+      "name": "Cihan Senturk",
+      "homepage": "https://github.com/CihanSenturk/omnipay-gocardlessv2/contributors"
+    },
     {
       "name": "Digitickets Contributors",
       "homepage": "https://github.com/digitickets/omnipay-gocardlessv2/contributors"
